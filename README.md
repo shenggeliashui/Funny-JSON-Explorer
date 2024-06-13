@@ -81,11 +81,8 @@
 
 1.![image-20240612190614051](https://github.com/shenggeliashui/Funny-JSON-Explorer/assets/128944650/8ca9142f-5308-4704-9812-848f1db3ff13)
 
-
-2.![image-20240612190614051](https://github.com/shenggeliashui/Funny-JSON-Explorer/assets/128944650/97468075-cf75-421d-96e3-7db6e8ad6026)
-
+2.![image-20240612190709515](https://github.com/shenggeliashui/Funny-JSON-Explorer/assets/128944650/c64910a0-c934-4293-b477-ec642a7953e8)
 
 3.![image-20240612190614051](https://github.com/shenggeliashui/Funny-JSON-Explorer/assets/128944650/b569e17c-388c-4cc5-8684-143b4290c400)
-
 
 4.![image-20240612190942091](https://github.com/shenggeliashui/Funny-JSON-Explorer/assets/128944650/5f6f880b-0aac-4905-bf63-c687fcd39d73)
